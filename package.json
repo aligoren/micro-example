@@ -1,0 +1,19 @@
+{
+  "name": "bookstore",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "run": "micro",
+    "dev": "micro-dev"
+  },
+  "author": "Ali GOREN <goren.ali@yandex.com>",
+  "license": "ISC",
+  "dependencies": {
+    "micro": "^9.3.3",
+    "micro-cors": "^0.1.1",
+    "micro-dev": "^3.0.0",
+    "microrouter": "^3.1.3"
+  }
+}
